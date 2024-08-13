@@ -1,0 +1,15 @@
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Core\bin\Debug\net8.0\WinningGroup.Core.deps.json
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Core\bin\Debug\net8.0\WinningGroup.Core.dll
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Core\bin\Debug\net8.0\WinningGroup.Core.pdb
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Core\bin\Debug\net8.0\WinningGroup.Infrastructure.dll
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Core\bin\Debug\net8.0\WinningGroup.Infrastructure.pdb
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Core\obj\Debug\net8.0\WinningGroup.Core.csproj.AssemblyReference.cache
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Core\obj\Debug\net8.0\WinningGroup.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Core\obj\Debug\net8.0\WinningGroup.Core.AssemblyInfoInputs.cache
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Core\obj\Debug\net8.0\WinningGroup.Core.AssemblyInfo.cs
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Core\obj\Debug\net8.0\WinningGroup.Core.csproj.CoreCompileInputs.cache
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Core\obj\Debug\net8.0\WinningGroup.Core.csproj.CopyComplete
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Core\obj\Debug\net8.0\WinningGroup.Core.dll
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Core\obj\Debug\net8.0\refint\WinningGroup.Core.dll
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Core\obj\Debug\net8.0\WinningGroup.Core.pdb
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Core\obj\Debug\net8.0\ref\WinningGroup.Core.dll

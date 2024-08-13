@@ -1,0 +1,12 @@
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Infrastructure\bin\Debug\net8.0\WinningGroup.Infrastructure.deps.json
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Infrastructure\bin\Debug\net8.0\WinningGroup.Infrastructure.dll
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Infrastructure\bin\Debug\net8.0\WinningGroup.Infrastructure.pdb
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Infrastructure\obj\Debug\net8.0\WinningGroup.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Infrastructure\obj\Debug\net8.0\WinningGroup.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Infrastructure\obj\Debug\net8.0\WinningGroup.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Infrastructure\obj\Debug\net8.0\WinningGroup.Infrastructure.AssemblyInfo.cs
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Infrastructure\obj\Debug\net8.0\WinningGroup.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Infrastructure\obj\Debug\net8.0\WinningGroup.Infrastructure.dll
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Infrastructure\obj\Debug\net8.0\refint\WinningGroup.Infrastructure.dll
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Infrastructure\obj\Debug\net8.0\WinningGroup.Infrastructure.pdb
+C:\Users\Declan\source\repos\Winning Group\WinningGroup.Infrastructure\obj\Debug\net8.0\ref\WinningGroup.Infrastructure.dll

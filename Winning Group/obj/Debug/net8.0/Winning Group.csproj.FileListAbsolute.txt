@@ -1,0 +1,52 @@
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\appsettings.json
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\Winning Group.exe
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\Winning Group.deps.json
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\Winning Group.runtimeconfig.json
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\Winning Group.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\Winning Group.pdb
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\MediatR.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\Snappier.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\WinningGroup.Core.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\bin\Debug\net8.0\WinningGroup.Core.pdb
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\Winning Group.csproj.AssemblyReference.cache
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\Winning Group.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\Winning Group.AssemblyInfoInputs.cache
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\Winning Group.AssemblyInfo.cs
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\Winning Group.csproj.CoreCompileInputs.cache
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\Winning Group.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\Winning Group.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\staticwebassets\msbuild.Winning Group.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\staticwebassets\msbuild.build.Winning Group.props
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Winning Group.props
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Winning Group.props
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\scopedcss\bundle\Winning Group.styles.css
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\Winning Group.csproj.CopyComplete
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\Winning Group.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\refint\Winning Group.dll
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\Winning Group.pdb
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\Winning Group.genruntimeconfig.cache
+C:\Users\Declan\source\repos\Winning Group\Winning Group\obj\Debug\net8.0\ref\Winning Group.dll
