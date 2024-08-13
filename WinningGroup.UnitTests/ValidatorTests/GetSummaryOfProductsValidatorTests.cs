@@ -20,6 +20,9 @@ namespace WinningGroup.UnitTests.ValidatorTests
             var cmd = _fixture.Build<GetSummaryOfProductsQuery>()
                 .With(q => q.PriceMin, 10)
                 .With(q => q.PriceMax, 5)
+                .With(q => q.RatingMin, 1)
+                .With(q => q.RatingMax, 5)
+
                 .Create();
 
             var results = _sut.Validate(cmd);
@@ -33,6 +36,8 @@ namespace WinningGroup.UnitTests.ValidatorTests
             var cmd = _fixture.Build<GetSummaryOfProductsQuery>()
                 .With(q => q.PriceMin, 5)
                 .With(q => q.PriceMax, 10)
+                .With(q => q.RatingMin, 1)
+                .With(q => q.RatingMax, 5)
                 .Create();
 
             var results = _sut.Validate(cmd);
@@ -44,6 +49,8 @@ namespace WinningGroup.UnitTests.ValidatorTests
         public void Validation_ShouldFail_WhereRatingMaxIsLessThanRatingMin()
         {
             var cmd = _fixture.Build<GetSummaryOfProductsQuery>()
+                .With(q => q.PriceMin, 5)
+                .With(q => q.PriceMax, 10)
                 .With(q => q.RatingMin, 5)
                 .With(q => q.RatingMax, 2)
                 .Create();
@@ -57,6 +64,8 @@ namespace WinningGroup.UnitTests.ValidatorTests
         public void Validation_ShouldPass_WhereRatingMaxIsGreaterThanRatingMin()
         {
             var cmd = _fixture.Build<GetSummaryOfProductsQuery>()
+                .With(q => q.PriceMin, 5)
+                .With(q => q.PriceMax, 10)
                 .With(q => q.RatingMin, 1)
                 .With(q => q.RatingMax, 5)
                 .Create();
